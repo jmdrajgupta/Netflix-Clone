@@ -27,6 +27,13 @@ Enhance front-end development skills, including HTML, CSS, and JavaScript
 
 
 
-https://github.com/jmdrajgupta/Netflix-Clone/assets/118257845/9378f95e-d4f5-4377-bdb7-262b0bfa63a5
+https://github.com/jmdrajgupta/Netflix-Clone/assets/11825784
+
+https://github.com/jmdrajgupta/Netflix-Clone/assets/118257845/1f1452da-d6e8-4bf6-b203-23441db4fa6a
+
+5/9378f95e-d4f5-4377-bdb7-262b0bfa63a5
+
+
+
 
 
