@@ -24,3 +24,9 @@ Gain practical experience in building a responsive and visually appealing user i
 Enhance front-end development skills, including HTML, CSS, and JavaScript
 
 
+
+
+
+https://github.com/jmdrajgupta/Netflix-Clone/assets/118257845/9378f95e-d4f5-4377-bdb7-262b0bfa63a5
+
+
